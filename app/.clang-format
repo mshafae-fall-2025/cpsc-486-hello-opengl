@@ -1,0 +1,7 @@
+# Checkout config tool: https://zed0.co.uk/clang-format-configurator/
+# https://clang.llvm.org/docs/ClangFormatStyleOptions.html
+
+---
+BasedOnStyle: Google
+Language: Cpp
+...
